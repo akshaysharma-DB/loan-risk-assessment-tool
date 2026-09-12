@@ -17,6 +17,6 @@ Python · Pandas · NumPy · Scikit-learn · Streamlit · Joblib
 
 ## Background
 
-This tool is an extension of my **Loan Default Risk Analysis** project, where I explored borrower and loan characteristics associated with default risk. The analysis and modeling work were used as the foundation for this assessment application.
+This tool is an extension of my **Loan Default Risk Analysis**(https://github.com/akshaysharma-DB/loan-default-risk-analysis) project, where I explored borrower and loan characteristics associated with default risk. The analysis and modeling work were used as the foundation for this assessment application.
 
 > **Note:** This is a decision-support project for demonstration purposes. Model outputs should not be treated as financial or lending advice.
