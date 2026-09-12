@@ -8,7 +8,7 @@ from src.predict import predict_loan
 # =========================================================
 
 st.set_page_config(
-    page_title="Loan Default Risk Analyzer",
+    page_title="Loan Risk Assessment Tool",
     page_icon="📊",
     layout="wide"
 )
